@@ -1,8 +1,11 @@
 # telegram_bot
 
-tokens are precessed via enviromental variables in .env file. You have to create them by yourself
+tokens are processed via environmental variables in .env file. You have to create them by yourself
 
-TELEGRAM_TOKEN = here
-OPENAI_ORG = 
-OPENAI_KEY = 
+TELEGRAM_TOKEN = example
+
+OPENAI_ORG = example
+
+OPENAI_KEY = example
+
 users = user1, user2, ... user_n
